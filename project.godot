@@ -17,14 +17,14 @@ _global_script_class_icons={
 
 config/name="Tutorial Basic Movement"
 run/main_scene="res://scenes/InitScene.tscn"
-config/icon="res://old_icon.png"
+config/icon="res://icon.png"
 
 [display]
 
 window/size/width=200
 window/size/height=100
-window/size/test_width=1600
-window/size/test_height=800
+window/size/test_width=1400
+window/size/test_height=700
 window/stretch/mode="2d"
 window/stretch/aspect="expand"
 
