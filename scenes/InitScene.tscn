@@ -13,15 +13,9 @@ position = Vector2( 100, 87.5 )
 
 [node name="basic_rectangle" type="Sprite" parent="StaticBody2D"]
 texture = ExtResource( 1 )
-__meta__ = {
-"_edit_lock_": true
-}
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D"]
 shape = SubResource( 1 )
-__meta__ = {
-"_edit_lock_": true
-}
 
 [node name="Player" parent="." instance=ExtResource( 2 )]
 position = Vector2( 100, 25 )
